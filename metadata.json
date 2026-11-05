@@ -1,0 +1,6 @@
+{
+  "name": "GESTIÓN SSOMA A&D",
+  "description": "Sistema Empresarial Integral de Seguridad, Salud Ocupacional y Medio Ambiente para el Sector Químico (Ley 29783 & ISO 45001).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
